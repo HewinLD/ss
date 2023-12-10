@@ -1,0 +1,10 @@
+D:\个人练手作品\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\给十个整数排序.exe.config
+D:\个人练手作品\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\给十个整数排序.exe
+D:\个人练手作品\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\给十个整数排序.pdb
+D:\个人练手作品\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+D:\个人练手作品\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+D:\个人练手作品\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+D:\个人练手作品\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+D:\个人练手作品\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+D:\个人练手作品\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\给十个整数排序.exe
+D:\个人练手作品\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\给十个整数排序.pdb
